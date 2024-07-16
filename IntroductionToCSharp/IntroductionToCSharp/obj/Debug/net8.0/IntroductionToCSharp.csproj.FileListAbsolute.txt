@@ -1,0 +1,14 @@
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net8.0\IntroductionToCSharp.exe
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net8.0\IntroductionToCSharp.deps.json
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net8.0\IntroductionToCSharp.runtimeconfig.json
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net8.0\IntroductionToCSharp.dll
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net8.0\IntroductionToCSharp.pdb
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.AssemblyInfoInputs.cache
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.AssemblyInfo.cs
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.dll
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\refint\IntroductionToCSharp.dll
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.pdb
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\IntroductionToCSharp.genruntimeconfig.cache
+C:\Users\Kavya\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net8.0\ref\IntroductionToCSharp.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kavya\\source\\repos\\AlgorithmsDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12649B-CA83-47FB-AB49-E222BF646695}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\kavya\\source\\repos\\algorithmsdatastructures\\algorithmsdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12649B-CA83-47FB-AB49-E222BF646695}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12649B-CA83-47FB-AB49-E222BF646695}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\kavya\\source\\repos\\algorithmsdatastructures\\algorithmsdatastructures\\adt\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12649B-CA83-47FB-AB49-E222BF646695}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\adt\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\Kavya\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\ADT\\Arrays.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\ADT\\Arrays.cs",
+              "ToolTip": "C:\\Users\\Kavya\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\ADT\\Arrays.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\ADT\\Arrays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:13:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kavya\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\Kavya\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:11:35.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

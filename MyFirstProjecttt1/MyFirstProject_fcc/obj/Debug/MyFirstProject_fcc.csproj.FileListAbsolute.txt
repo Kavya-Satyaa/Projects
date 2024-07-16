@@ -1,0 +1,7 @@
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\bin\Debug\MyFirstProject_fcc.exe.config
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\bin\Debug\MyFirstProject_fcc.exe
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\bin\Debug\MyFirstProject_fcc.pdb
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\obj\Debug\MyFirstProject_fcc.csproj.AssemblyReference.cache
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\obj\Debug\MyFirstProject_fcc.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\obj\Debug\MyFirstProject_fcc.exe
+C:\Users\Kavya\source\repos\MyFirstProjecttt1\MyFirstProject_fcc\obj\Debug\MyFirstProject_fcc.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.csproj.AssemblyReference.cache
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.Form1.resources
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.Properties.Resources.resources
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.csproj.GenerateResource.cache
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\bin\Debug\AdoDotNetApplication2.exe.config
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\bin\Debug\AdoDotNetApplication2.exe
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\bin\Debug\AdoDotNetApplication2.pdb
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.exe
+C:\Users\Kavya\source\repos\AdoDotNetApplication2\AdoDotNetApplication2\obj\Debug\AdoDotNetApplication2.pdb
